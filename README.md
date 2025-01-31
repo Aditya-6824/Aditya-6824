@@ -40,7 +40,7 @@ In this age of AI-driven transformation, I am constantly evolving and upgrading 
 
 ### 📬 Let's Connect!
 🔗 **LinkedIn:** [aditya-rajeev-patil](https://linkedin.com/in/aditya-rajeev-patil-549728250)
-🔗 **GitHub:** [AdityaPatil](https://github.com/AdityaPatil)
+🔗 **GitHub:** [AdityaRajeevPatil](https://github.com/Aditya-6824)
 📧 **Email:** adityapatil6824@gmail.com
 
 💡 Always open to **collaborations & innovative tech projects**!
