@@ -93,7 +93,7 @@ Top 2.6% National Hackathon
 
 ### ✅ Verified Credentials
 
-**🔒 [Certified Ethical Hacker (CEH)](https://aspen.eccouncil.org/VerifyBadge?&type=certification&a=6bG0RCioU4fdaRns4hE85QZPJellpTXr6uRdxR7YA7Y=)**  
+**🔒 [Certified Ethical Hacker (CEH)](https://aspen.eccouncil.org/VerifyBadge?&type=certification&a=6bG0RCioU4fdaRns4hE85QZPJellpTXr6uRdxQ7YA7Y=)**  
 EC-Council | December 2024  
 Industry-recognized hacking certification
 
@@ -143,7 +143,7 @@ VIT Bhopal University | 2024-2025
 
 ## 🌟 Featured Projects
 
-### 🗳️ **[VoteChain — Solana Blockchain Decentralized Voting DApp](https://github.com/Aditya-6824/Solana-Voting-DApp)** ⭐
+### 🗳️ **[VoteChain — Solana Blockchain Decentralized Voting DApp](https://github.com/Aditya-6824/VoteChain--Blockchain-based-Voting-DApp)** ⭐
 
 <div align="center">
   <img src="https://img.shields.io/badge/Solana-Blockchain-9945FF?style=for-the-badge&logo=solana" />
