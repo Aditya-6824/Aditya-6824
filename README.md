@@ -27,13 +27,7 @@ TryHackMe
 **⭐⭐⭐⭐⭐**
 
 </td>
-<td align="center" width="25%">
 
-### 🥇 **All-India Rank 51**
-CTF 2024 Competition  
-**IIIT Kottayam**
-
-</td>
 <td align="center" width="25%">
 
 ### 🏅 **Top 2.6%**
@@ -43,7 +37,7 @@ Canara Bank Hackathon
 </td>
 <td align="center" width="25%">
 
-### 🎓 **5 Certifications**
+### 🎓 **TOP Certifications**
 CEH, IBM, ISRO, Google  
 **Verified & Active**
 
