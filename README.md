@@ -330,7 +330,7 @@ Client-side web application implementing multiple cryptographic algorithms for s
 
 | Metric | Achievement | Status |
 |--------|-------------|--------|
-| **🌍 Global Rank** | Top 6% on TryHackMe | 🟢 **ACTIVE** |
+| **🌍 Global Rank** | Top 4% on TryHackMe | 🟢 **ACTIVE** |
 | **🏆 National CTF** | All-India Rank 51 | ✅ **VERIFIED** |
 | **🥇 Hackathon** | Top 105 / 4,000+ Teams (2.6%) | 🏅 **RECOGNIZED** |
 | **📜 Certifications** | 5 Industry-Recognized | ✅ **VERIFIED** |
