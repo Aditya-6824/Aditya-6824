@@ -22,7 +22,7 @@ VIT Bhopal University `2022-2026`
 <tr>
 <td align="center" width="25%">
 
-### 🎖️ **Top 6% Global**
+### 🎖️ **Top 4% Global**
 TryHackMe  
 **⭐⭐⭐⭐⭐**
 
@@ -62,10 +62,10 @@ I am a passionate security researcher and blockchain developer committed to buil
 
 ## 🌟 Competitive Achievements
 
-### 🔴 [TryHackMe: Top 6% Global Ranking](https://tryhackme.com/p/adityapatil6824)
+### 🔴 [TryHackMe: Top 4% Global Ranking](https://tryhackme.com/p/adityapatil6824)
 Achieved elite status on the world's largest cybersecurity training platform through consistent mastery of security challenges and learning paths.
 
-- 🎯 Ranked in top 6% globally among 1M+ users
+- 🎯 Ranked in top 4% globally among 1M+ users
 - 📈 Continuous progression across security domains
 - 🏅 Demonstrated expertise in multiple security specialties
 
