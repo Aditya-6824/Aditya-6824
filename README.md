@@ -9,7 +9,7 @@ Vellore Institute of Technology `2022-2026`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aditya-rajeev-patil-549728250)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Aditya-6824)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%206%25-ff6600?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/adityapatil6824)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-ff6600?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/adiyaar)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:adityapatil6824@gmail.com)
 
 </div>
@@ -373,7 +373,7 @@ I'm actively seeking opportunities in:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-rajeev-patil-549728250)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya-6824)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-FF6600?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/adityapatil6824)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-FF6600?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/adiyaar)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityapatil6824@gmail.com)
 
 </div>
