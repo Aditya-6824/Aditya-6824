@@ -5,7 +5,7 @@
 🔐 **Cybersecurity Specialist | Blockchain Developer | Security Researcher**
 
 B.Tech Computer Science & Engineering (Cybersecurity & Digital Forensics)  
-VIT Bhopal University `2022-2026`
+Vellore Institute of Technology `2022-2026`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aditya-rajeev-patil-549728250)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Aditya-6824)
@@ -22,7 +22,7 @@ VIT Bhopal University `2022-2026`
 <tr>
 <td align="center" width="25%">
 
-### 🎖️ **Top 4% Global**
+### 🎖️ **Top 3% Global**
 TryHackMe  
 **⭐⭐⭐⭐⭐**
 
@@ -62,10 +62,10 @@ I am a passionate security researcher and blockchain developer committed to buil
 
 ## 🌟 Competitive Achievements
 
-### 🔴 [TryHackMe: Top 4% Global Ranking](https://tryhackme.com/p/adityapatil6824)
+### 🔴 [TryHackMe: Top 3% Global Ranking](https://tryhackme.com/p/adityapatil6824)
 Achieved elite status on the world's largest cybersecurity training platform through consistent mastery of security challenges and learning paths.
 
-- 🎯 Ranked in top 4% globally among 1M+ users
+- 🎯 Ranked in top 3% globally among 1M+ users
 - 📈 Continuous progression across security domains
 - 🏅 Demonstrated expertise in multiple security specialties
 
@@ -330,7 +330,7 @@ Client-side web application implementing multiple cryptographic algorithms for s
 
 | Metric | Achievement | Status |
 |--------|-------------|--------|
-| **🌍 Global Rank** | Top 4% on TryHackMe | 🟢 **ACTIVE** |
+| **🌍 Global Rank** | Top 3% on TryHackMe | 🟢 **ACTIVE** |
 | **🏆 National CTF** | All-India Rank 51 | ✅ **VERIFIED** |
 | **🥇 Hackathon** | Top 105 / 4,000+ Teams (2.6%) | 🏅 **RECOGNIZED** |
 | **📜 Certifications** | 5 Industry-Recognized | ✅ **VERIFIED** |
